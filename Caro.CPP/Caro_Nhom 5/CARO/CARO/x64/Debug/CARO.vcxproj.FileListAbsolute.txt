@@ -1,0 +1,6 @@
+D:\test code\CARO\x64\Debug\CARO.exe
+D:\CARO\CARO\x64\Debug\CARO.exe
+D:\Caro_Nhom 5\CARO\CARO\x64\Debug\CARO.exe
+D:\Caro_Nhom 5.CPP\Caro_Nhom 5\CARO\CARO\x64\Debug\CARO.exe
+D:\New folder (10)\Caro_Nhom 5.CPP\Caro_Nhom 5\CARO\CARO\x64\Debug\CARO.exe
+D:\Caro_Nhom 5.CPP\Caro_Nhom 5.CPP\Caro_Nhom 5\CARO\CARO\x64\Debug\CARO.exe
